@@ -21,8 +21,6 @@ After this, we had a good 30-45 minute discussion about my approaches and a few 
 
 ```python
 	pip3 install -r requirements.txt
-```
-```python
 	jupyter notebook
 ```
 
